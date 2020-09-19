@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-wgl-main",
+  "version": "1.0.0",
+  "description": "Config for ESLint by wGloom",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whiteGloom/eslint-config-wgl-main.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "whiteGloom <karabin.m@yandex.ru> (https://github.com/whiteGloom)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whiteGloom/eslint-config-wgl-main/issues"
+  },
+  "homepage": "https://github.com/whiteGloom/eslint-config-wgl-main#readme"
+}
