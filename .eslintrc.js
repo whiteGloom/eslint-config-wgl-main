@@ -47,7 +47,7 @@ module.exports = {
     'function-call-argument-newline': ['error', 'consistent'],
     'function-paren-newline': ['error', 'consistent'],
     'implicit-arrow-linebreak': ['error', 'beside'],
-    'indent': ['error', 2],
+    'indent': ['error', 2, { 'SwitchCase': 1 }],
     'keyword-spacing': 'error',
     'line-comment-position': ['error', { 'position': 'beside' }],
     'lines-around-comment': ['error', {
